@@ -1,8 +1,8 @@
 [
   {
-    "run_id": "2026-02-26_09-37",
-    "started_at": "2026-02-26T09:37:21.720600",
-    "completed_at": "2026-02-26T09:41:39.415091",
+    "run_id": "2026-02-26_14-40",
+    "started_at": "2026-02-26T14:40:45.446872",
+    "completed_at": "2026-02-26T14:45:05.642425",
     "status": "success",
     "verticals_requested": [
       "ai",
@@ -14,7 +14,7 @@
       "ai": {
         "vertical": "ai",
         "status": "ready_to_publish",
-        "tweets_scraped": 9,
+        "tweets_scraped": 10,
         "stories_found": 5,
         "posts_generated": 3,
         "output_file": "data/output/2026-02-26/ai_posts.json"
@@ -38,7 +38,7 @@
       "entertainment": {
         "vertical": "entertainment",
         "status": "ready_to_publish",
-        "tweets_scraped": 1,
+        "tweets_scraped": 3,
         "stories_found": 1,
         "posts_generated": 1,
         "output_file": "data/output/2026-02-26/entertainment_posts.json"
