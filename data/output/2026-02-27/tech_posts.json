@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Hot take: Paul Graham isn't reassuring founders. He's describing a selection event. The startups that internalize this *now* are the ones that survive it.\n\n---\n\n**By end of 2025, we'll see a wave of Series A failures \u2014 not from bad ideas, but from founders who heard \"turbulence favors startups\" and used it as permission to stay comfortable instead of moving faster.**\n\nThe thesis is only true if you actually out-adapt the incumbents. Most won't.\n\n---\n\n**Within 18 months, the startups that win won't be the ones with the best product \u2014 they'll be the ones that rewired their decision-making speed.** Incumbents can copy features. They cannot copy a culture built to change faster than the market does.\n\n---\n\n**Unpopular opinion: The founders second-guessing their timing right now are already behind.** Timing anxiety is a lagging indicator. By the time turbulence *feels* real enough to worry about, the window to exploit it is already closing.\n\n---\n\n**By Q4 2026, \"we pivoted faster than the incumbents\" becomes the defining origin story of this startup generation** \u2014 the way \"we launched during COVID\" was for the last one. Graham is naming the era before most founders know they're in it.\n\n---\n\nWhat am I missing?",
+    "format_type": "predictions",
+    "vertical": "tech",
+    "source_story_title": "Paul Graham: Technological Turbulence Is Net Positive for Startups",
+    "source_story_summary": "Paul Graham reassured founders worried about rapid technological change, arguing that 'techno-turbulence' disproportionately favors startups over incumbents. He contends that while the pace of change feels uncomfortable, agile startups are statistically better positioned to adapt to major shifts than large, entrenched organizations.",
+    "generated_at": "2026-02-27T05:10:11.128709",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "predictions",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "Hot take: AI doesn't make starting a startup easier. It makes the wrong idea more expensive to pursue.\n\n---\n\n**By end of 2025, the #1 cause of startup failure won't be execution \u2014 it'll be building the right thing, brilliantly, for a problem nobody actually has.**\n\nAI collapses build time. That means founders run out of excuses faster and hit the real wall sooner: judgment.\n\n---\n\n**By mid-2026, \"we shipped fast\" will be a red flag in pitch decks, not a flex.**\n\nSpeed without insight just means you burned runway at scale. Investors will start asking: what did you learn *before* you built?\n\n---\n\n**Unpopular opinion: The next generation of winning founders won't be the best builders \u2014 they'll be the best problem hunters.**\n\nThe moat shifts from execution to discovery. If you can't articulate *why* this problem, *why* now, *why* you \u2014 AI won't save you. It'll just accelerate your failure.\n\n---\n\n**By 2027, the most valuable startup accelerator program won't teach you to build. It'll teach you to see problems others can't.**\n\nYC, Founders Fund \u2014 whoever cracks problem-discovery curriculum wins the next decade of venture.\n\n---\n\nWhat am I missing?",
+    "format_type": "predictions",
+    "vertical": "tech",
+    "source_story_title": "Paul Graham: AI Will Amplify Both the Upside and Difficulty of Starting a Startup",
+    "source_story_summary": "Graham offered a balanced but net-bullish take on AI's impact on the startup experience: figuring out what to build will become even harder, but founders who crack the problem will be able to build and scale remarkable products faster than ever before. He frames this as an acceleration of existing startup dynamics, not a fundamental inversion.",
+    "generated_at": "2026-02-27T05:10:20.695106",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "predictions",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]

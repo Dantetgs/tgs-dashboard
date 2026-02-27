@@ -1,0 +1,41 @@
+[
+  {
+    "content": "Hot take: The AGI race isn't won in the data center. It's won in the recruiting pipeline.\n\nOpenAI just admitted it publicly.\n\n---\n\n**By end of 2025, OpenAI's recruiting function will be treated as a core competitive moat** \u2014 not a support function. Expect dedicated recruiting labs, proprietary sourcing tools, and headcount that rivals their policy team.\n\n---\n\n**Former founders will become the most sought-after recruiting profile in AI within 18 months.** They know how to sell a mission, spot outliers, and close under pressure. That's not an HR skill set. That's a founder skill set. OpenAI just named it out loud.\n\n---\n\n**The labs that lose the talent war won't lose on compensation.** They'll lose because their recruiting operators can't articulate the research vision compellingly enough to pull top scientists away from academia. Organizational storytelling is now a technical bottleneck.\n\n---\n\n**By Q1 2026, at least two other frontier labs publicly elevate their recruiting function** with similar founder-recruiter hiring pushes. This is now a visible vector of competition \u2014 once OpenAI signals it, everyone copies.\n\n---\n\nWhat am I missing?",
+    "format_type": "predictions",
+    "vertical": "ai",
+    "source_story_title": "OpenAI Recruiting Push: Sam Altman Calls for Non-Technical Talent to Support AGI Mission",
+    "source_story_summary": "Sam Altman highlighted that contributing to AGI development doesn't require technical skills, specifically calling out research recruiting as a high-leverage role. He spotlighted a recruiter named Tifa who is seeking exceptional recruiters \u2014 particularly former founders \u2014 to help build elite research teams at OpenAI.",
+    "generated_at": "2026-02-27T05:08:33.974595",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "predictions",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "Hot take: Nano Banana 2 isn't a product launch. It's Google firing a warning shot at every image API startup that built a business on Midjourney and Stability AI's pricing inefficiency.\n\n---\n\n**By end of Q3 2025, at least two well-funded image generation startups either pivot or get acqui-hired.** When a frontier lab ships Pro-level quality at Flash-level speed, the mid-tier dies first. You can't compete on margin when Google is your infrastructure AND your competitor.\n\n---\n\n**By Q4 2025, image generation becomes a line item, not a moat.** The same way S3 commoditized storage, Nano Banana 2 accelerates the moment where image gen is just another API call. The winners won't be the ones generating images \u2014 they'll be the ones building *with* images downstream.\n\n---\n\n**Within 12 months, speed and cost per image become the only benchmarks that matter in B2B pitches.** Quality parity is essentially achieved. Every enterprise procurement conversation shifts to: what's your p95 latency and cost per 1,000 outputs? Raw quality arguments are dead.\n\n---\n\n**The real unlock nobody's talking about: real-time image editing in product workflows.** Flash-speed inference doesn't just improve generation \u2014 it makes *interactive* editing viable at scale. That's a different product category entirely. E-commerce, media, and ad tech should be paying very close attention right now.\n\nWhat am I missing?",
+    "format_type": "predictions",
+    "vertical": "ai",
+    "source_story_title": "Google DeepMind Launches Nano Banana 2 Image Generation Model on Gemini Flash",
+    "source_story_summary": "Google DeepMind announced Nano Banana 2, a new image creation and editing model built on the latest Gemini Flash architecture. The model is positioned as combining Pro-level image generation capabilities with significantly faster inference speed, targeting both creation and editing use cases.",
+    "generated_at": "2026-02-27T05:08:44.980203",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "predictions",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "Hot take: The model wars aren't being won in the lab. They're being won in someone's terminal window.\n\n---\n\n**By Q4 2025, Anthropic loses the developer-first narrative entirely.** Coding is the beachhead. Lose it and you lose the enterprise deals that follow. One public defection amplified by Altman is a signal, not a data point. Watch the pipeline.\n\n---\n\n**By Q1 2026, OpenAI uses real-world workflow displacement \u2014 not benchmarks \u2014 as their primary enterprise sales motion.** \"Power users switched\" converts better than MMLU scores. This tweet just became a sales deck slide.\n\n---\n\n**By mid-2026, the API revenue gap between OpenAI and Anthropic widens beyond what a single model release can close.** Developer stickiness compounds. The team that wins the coding layer wins the integration layer wins the contract layer. It cascades.\n\n---\n\n**Anthropic's countermove arrives before EOY 2025 \u2014 and it won't be a model drop.** It'll be a developer experience play. Tooling, context windows, pricing, or all three. They know what's at stake. The question is whether it lands fast enough.\n\n---\n\nWhat am I missing?",
+    "format_type": "predictions",
+    "vertical": "ai",
+    "source_story_title": "Sam Altman Signals OpenAI Codex Outperforming Anthropic Opus Among Power Users",
+    "source_story_summary": "Sam Altman publicly acknowledged and thanked a user who declared OpenAI's Codex 5.3 has fully replaced Anthropic's Claude Opus 4.6 in their workflow \u2014 the first model to displace Opus after extensive use. Altman's quote-retweet amplifies this as a competitive signal, framing it as a model quality milestone for OpenAI's coding-focused offerings.",
+    "generated_at": "2026-02-27T05:08:54.387988",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "predictions",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]
