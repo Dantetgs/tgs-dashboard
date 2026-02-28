@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Saylor didn't build a Bitcoin treasury. He built a Bitcoin financial system \u2014 one instrument at a time.\n\n---\n\n$STRC closing at par on day one isn't a footnote. It's proof that Wall Street appetite for Bitcoin-structured products isn't slowing. It's formalizing.\n\n---\n\nThe playbook is clear: package Bitcoin exposure into instruments traditional capital already understands. Preferred stock. Structured notes. Whatever fits the mandate.\n\nIf you're building anything touching institutional treasury or capital markets and you're not studying this architecture closely, you're behind.\n\nWhat does the end state look like when every major asset class has a Bitcoin-correlated wrapper? I have a view. What's yours?",
+    "format_type": "reflective",
+    "vertical": "crypto",
+    "source_story_title": "Saylor's Strategy Launches $STRC, Closes at Par on Debut",
+    "source_story_summary": "Michael Saylor posted twice about $STRC, a new Strategy-linked instrument (likely a preferred stock or structured product), which closed at exactly $100.00 on its first trading day. The 'Probably Nothing' framing is Saylor's characteristic ironic understatement, signaling he views this as a significant milestone. The closing at par suggests stable initial demand for the product.",
+    "generated_at": "2026-02-28T04:38:31.531466",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "reflective",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "Ethereum keeps moving infrastructure from \"trusted external layer\" to \"enshrined protocol.\"\n\nePBS. Parallel verification. This is the playbook: ossify what works, formalize what's critical.\n\n---\n\nMost chains optimize for speed. Ethereum optimizes for trust minimization. Glamsterdam isn't a performance upgrade \u2014 it's a decentralization upgrade wearing performance's clothes.\n\nThat distinction matters when you're choosing where to build long-term.\n\n---\n\nThe question I'm sitting with this weekend: how many teams are building MEV-aware apps on assumptions about external relays that Ethereum is quietly making obsolete?\n\nKnow your protocol. The roadmap is the alpha.",
+    "format_type": "reflective",
+    "vertical": "crypto",
+    "source_story_title": "Vitalik Outlines Ethereum Scaling Roadmap: Glamsterdam Upgrade to Bring Parallel Verification and ePBS",
+    "source_story_summary": "Vitalik Buterin shared a detailed breakdown of Ethereum's short- and long-term scaling strategy. In the near term, the upcoming 'Glamsterdam' hard fork will introduce block-level access lists enabling parallel block verification, and enshrined Proposer-Builder Separation (ePBS), which carries multiple performance and decentralization benefits. The post is part of a broader thread, suggesting a longer technical exposition is underway.",
+    "generated_at": "2026-02-28T04:38:38.017772",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "reflective",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]
