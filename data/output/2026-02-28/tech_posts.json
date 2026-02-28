@@ -1,11 +1,11 @@
 [
   {
-    "content": "Paying $10K for a domain because it has \"AI\" in it is the new buying a Pets.com jersey in 1999.\n\n---\n\nThe namespace gold rush is a lagging indicator. By the time squatters price you out of a category, the category is already crowded. The builders who win aren't chasing the label \u2014 they're solving the problem.\n\n---\n\nThe best brand you can build right now might be one that doesn't sound like AI at all. Boring name, sharp product, real results. Let the speculators overpay for the word while you own the outcome.\n\nWhat's your naming strategy \u2014 lean into AI branding or deliberately avoid it?",
+    "content": "The AI brand tax is real: $600 vs $10,000 for a domain name.\n\nBut the bigger signal? Namespace saturation is an early indicator of a crowded market. When the *words* are expensive, the *market* is expensive.\n\nNon-AI positioning is the contrarian arbitrage hiding in plain sight.\n\n---\n\nThe startups that win the next cycle won't be the ones that screamed \"AI\" loudest in 2024. They'll be the ones that solved hard problems and let the results do the talking.\n\nBoring names. Deadly execution.\n\n---\n\nWe named our company before the AI gold rush. Best accidental decision we made.\n\nIf you're naming something now \u2014 are you paying the hype tax, or building something that doesn't need the label?",
     "format_type": "reflective",
     "vertical": "tech",
-    "source_story_title": "AI Startup Branding Costs Skyrocket: Domain Names Now 16x More Expensive",
-    "source_story_summary": "Y Combinator's Paul Graham observed a stark cost disparity in domain name acquisition between AI and non-AI startups. A hard tech startup secured an ideal domain in 10 minutes for $600, while an equivalent AI startup search would take roughly an hour and cost around $10,000 \u2014 a ~16x price premium driven by speculative domain squatting and intense competition in the AI namespace.",
-    "generated_at": "2026-02-28T04:39:02.384432",
+    "source_story_title": "AI Startup Branding Tax: Domain Names Cost 15x More for AI Companies",
+    "source_story_summary": "Paul Graham observed that finding domain names for non-AI startups is dramatically cheaper and faster than for AI-branded ones. A hard tech startup secured a perfect domain for $600 in 10 minutes, while an equivalent AI startup search would take an hour and cost around $10,000 \u2014 roughly a 15x price premium and 6x time cost.",
+    "generated_at": "2026-02-28T13:50:44.807237",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "content": "How you speak is a lagging indicator of how you think.\n\n---\n\nPaul Graham clocking the decline of uptalking isn't about linguistics. It's about confidence returning to a culture that briefly rewarded performed uncertainty.\n\nFounders: your brand voice is a cultural artifact. Audit it accordingly.\n\n---\n\nThe rooms that shaped startup communication in 2020 are no longer setting the standard. The question isn't what changed \u2014 it's whether your pitch, your hiring voice, and your public persona already updated or are still echoing a moment that passed.\n\nAgree or disagree: communication style is the fastest signal of whether a founder is leading culture or following it?",
+    "content": "5 startups. Same room. Same day. One dead. Four potentially legendary.\n\nThat spread isn't a bug in early-stage investing \u2014 it's the entire point.\n\n---\n\nThe AI wave didn't flatten startup outcomes. It amplified the variance. Branding alone gets you in the room. Fundamentals decide if you stay.\n\n---\n\nThe batch topper and the shutdown were probably separated by one thing: a real problem worth solving. Not the pitch. Not the team deck. The problem.\n\nWhat's the hardest truth you've had to accept about your own startup?",
     "format_type": "reflective",
     "vertical": "tech",
-    "source_story_title": "Cultural Linguistics Shift: Paul Graham Notes Decline of 'Uptalking'",
-    "source_story_summary": "Paul Graham mused publicly about whether uptalking \u2014 the speech pattern of ending statements with a rising intonation \u2014 has become less prevalent since its perceived peak during the 'peak woke' period of 2020. The observation generated significant discussion, touching on the intersection of cultural trends, workplace communication norms, and the perceived ebbing of certain progressive cultural markers.",
-    "generated_at": "2026-02-28T04:39:08.954723",
+    "source_story_title": "YC Batch Divergence: One Startup Shuts Down, Four Are Potential Batch Toppers",
+    "source_story_summary": "Paul Graham noted extreme outcome variance in a single day of YC office hours: one startup had already decided to shut down, while four others each showed the potential to become the top startup of the batch. This unusually high spread in a single session highlights the high-variance nature of early-stage startup evaluation.",
+    "generated_at": "2026-02-28T13:50:50.870545",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",

@@ -1,24 +1,11 @@
 [
   {
-    "content": "$110B isn't a funding round. It's a declaration of infrastructure dominance.\n\n---\n\nWhen SoftBank, NVIDIA, and Amazon write the same check, they're not betting on a product. They're betting on becoming the substrate. Commercial + military + cloud + chips \u2014 that's not an AI company anymore. That's leverage over the entire stack.\n\n---\n\nThe builders paying attention aren't asking \"what does this mean for OpenAI?\" They're asking: when one player controls this much infrastructure, where does independent leverage still exist? That's the real strategic question heading into the next cycle.\n\nWhere are you building that doesn't depend on their goodwill?",
-    "format_type": "reflective",
-    "vertical": "ai",
-    "source_story_title": "OpenAI Raises $110B Round from SoftBank, NVIDIA, and Amazon",
-    "source_story_summary": "OpenAI has closed a $110 billion funding round with participation from SoftBank, NVIDIA, and Amazon. Sam Altman announced the raise directly, framing it as fueling infrastructure to bring AI tools to everyone. OpenAI's official account echoed the announcement, emphasizing deep ecosystem collaboration as a prerequisite for scaling AI broadly.",
-    "generated_at": "2026-02-28T04:37:58.141536",
-    "generation_params": {
-      "model": "claude-sonnet-4-6",
-      "format": "reflective",
-      "persona": "Jorge Jimenez"
-    }
-  },
-  {
-    "content": "The most dangerous place to be in AI right now is \"general purpose with no strategic anchor.\"\n\n---\n\nOpenAI just locked in two anchors simultaneously: the largest funding round in the industry and a classified DoW deployment. That's not a coincidence. That's a moat being built in real time.\n\n---\n\nThe builders paying attention aren't asking \"what does this mean for OpenAI?\" They're asking: what vertical can I own so completely that I become the only logical choice when that sector needs AI infrastructure? Pick your DoW. Then go build it.\n\nWhat's the vertical you're betting on?",
+    "content": "OpenAI on classified networks isn't a tech story. It's a geopolitical one.\n\n---\n\nThe moment frontier AI becomes critical defense infrastructure, the \"open\" in OpenAI becomes a relic. Safety frameworks don't just become ethics \u2014 they become national security doctrine.\n\n---\n\nEvery founder building in regulated sectors should be watching this closely. The procurement playbook just changed. The question isn't can AI pass compliance. It's who gets cleared first.\n\nAgree or disagree: this is the moment AI stops being a product category and becomes a strategic asset class?",
     "format_type": "reflective",
     "vertical": "ai",
     "source_story_title": "OpenAI Deploys Models on U.S. Department of War Classified Network",
-    "source_story_summary": "Sam Altman announced that OpenAI has reached an agreement with the Department of War (DoW) to deploy its models on their classified network. Altman emphasized that the DoW demonstrated respect for safety considerations throughout negotiations. The post was duplicated across multiple accounts/retweets, generating significant total engagement.",
-    "generated_at": "2026-02-28T04:38:03.700782",
+    "source_story_summary": "Sam Altman announced that OpenAI has reached an agreement with the Department of War to deploy its models on their classified network. Altman framed the partnership as safety-conscious, emphasizing mutual respect for AI safety principles. The post was duplicated across three near-identical tweets, suggesting a thread or a posting glitch, but the core announcement is singular and significant.",
+    "generated_at": "2026-02-28T13:49:36.611057",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
@@ -26,12 +13,25 @@
     }
   },
   {
-    "content": "Karpathy ran 8 parallel AI agents on real ML research. It was messy. It failed. He still called it promising.\n\nThat tension is the whole story.\n\n---\n\nWe're not in the \"AI does research\" era yet. We're in the \"AI teaches us how to orchestrate AI\" era. Every failed multi-agent run is a data point on where human judgment still can't be abstracted away.\n\n---\n\nThe builders who win won't be the ones who waited for the tech to mature. They'll be the ones who got their hands dirty during the messy middle.\n\nWhere are you still keeping humans in the loop \u2014 and is that a limitation or a competitive advantage?",
+    "content": "$110B isn't a funding round. It's a moat being poured in concrete.\n\n---\n\nAmazon owns the cloud. NVIDIA owns the chips. SoftBank owns the distribution. OpenAI just signed deals with all three simultaneously.\n\nThat's not capital. That's vertical integration disguised as a fundraise.\n\n---\n\nEvery founder building in AI needs to ask the same question this weekend: which layer of that stack are you dependent on \u2014 and what's your leverage if OpenAI decides to compete with you directly?\n\nThe game is changing. Fast. Are you positioned, or just along for the ride?",
     "format_type": "reflective",
     "vertical": "ai",
-    "source_story_title": "Karpathy Experiments with Multi-Agent AI Research Loops Using Claude and Codex",
-    "source_story_summary": "Andrej Karpathy shared experiments running 8 parallel AI agents (4 Claude, 4 Codex instances), each with 1 GPU, attempting to automate ML research tasks like removing logit softcap without regression in NanoGPT. He reported the results were messy and unsuccessful but found the experiment 'very' promising (tweet truncated). This was a response to a question about why NanoGPT speedrunning isn't fully AI-automated yet.",
-    "generated_at": "2026-02-28T04:38:09.447184",
+    "source_story_title": "OpenAI Raises $110B Round from Amazon, NVIDIA, and SoftBank",
+    "source_story_summary": "Sam Altman announced a $110 billion funding round for OpenAI, backed by Amazon, NVIDIA, and SoftBank. This would represent one of the largest private funding rounds in history, dramatically increasing OpenAI's war chest for compute, talent, and product development.",
+    "generated_at": "2026-02-28T13:49:41.983184",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "reflective",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "8 agents. 4 Claude. 4 Codex. Each with a GPU. And they still couldn't remove a logit softcap without regression.\n\nKarpathy didn't bury this \u2014 he published it. That's the signal.\n\n---\n\nParallelism isn't intelligence. Throwing more agents at a research task doesn't solve coordination. It just makes the failure mode more expensive and harder to debug.\n\nWe're in the \"more horsepower, same roads\" phase of agentic AI.\n\n---\n\nThe builders who win won't be the ones who scale agents the fastest. They'll be the ones who figure out how agents *hand off context* without losing coherence.\n\nThat's the unsolved problem hiding inside every agentic demo right now.\n\nWhat's your mental model for agent coordination \u2014 is this a tooling problem or a fundamentally harder alignment problem?",
+    "format_type": "reflective",
+    "vertical": "ai",
+    "source_story_title": "Karpathy Experiments with Multi-Agent AI Research Using Claude and Codex in NanoChat",
+    "source_story_summary": "Andrej Karpathy shared experiments running 8 parallel AI agents (4 Claude, 4 Codex, each with 1 GPU) to automate ML research tasks in NanoChat \u2014 specifically attempting to remove logit softcap without regression. The result was messy and unsuccessful, but Karpathy noted it was still instructive. The post was sparked by the question of why the NanoGPT speedrun challenge isn't fully AI-automated yet.",
+    "generated_at": "2026-02-28T13:49:49.888891",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
