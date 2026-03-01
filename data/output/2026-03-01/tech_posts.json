@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Your AI stack is now a values statement whether you want it to be or not.\n\n---\n\nPaul Graham telling founders to ignore the Anthropic/DoD noise and just ship is correct \u2014 but only for now. As government AI contracts scale, \"who built your model\" will appear in enterprise procurement checklists. That day is coming.\n\n---\n\nThe founders who think about vendor policy risk *before* they need to will have options. The ones who don't will be doing emergency migrations at the worst possible time.\n\nBuild on the best tool today. But know what you're building on. Those aren't contradictions.\n\nWhat's your framework for evaluating AI vendor risk beyond raw performance?",
+    "format_type": "reflective",
+    "vertical": "tech",
+    "source_story_title": "Anthropic's DoD Work Sparks Startup AI Stack Debate",
+    "source_story_summary": "Paul Graham weighed in on the controversy surrounding Anthropic's work with the Department of Defense (DoD), advising early-stage founders not to let Anthropic's DoD partnerships deter them from using Anthropic models if they produce the best results. He also praised what appears to be an Anthropic CEO AMA on the topic, noting the confidence it takes to field public questions during a sensitive moment.",
+    "generated_at": "2026-03-01T05:13:46.390739",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "reflective",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "The most important code you'll write in the next decade won't be code.\n\n---\n\nAmjad told PG early on: \"Don't look at it. That's object code. You're programming in English now.\"\n\nPG admitted he saw the future and didn't recognize it.\n\nThat's how paradigm shifts work \u2014 they look strange before they look obvious.\n\n---\n\nWe're still in the \"looks strange\" phase for most of the industry.\n\nThe builders who internalize this NOW \u2014 that English is the new high-level language and generated code is infrastructure, not craft \u2014 are the ones building the next generation of dev tools.\n\nWhere are you in that mental model shift?",
+    "format_type": "reflective",
+    "vertical": "tech",
+    "source_story_title": "Paul Graham Reflects on Replit's 'Program in English' Vision \u2014 Now Clearly Prescient",
+    "source_story_summary": "Paul Graham recalled an early demo from Replit's Amjad Masad in which Graham was taken aback by AI-generated boilerplate code. Masad reframed it: 'Don't look at it. That's object code. You're programming in English now.' Graham says in retrospect he was seeing the future but didn't fully grasp it at the time because it seemed too strange.",
+    "generated_at": "2026-03-01T05:13:51.815533",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "reflective",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]
