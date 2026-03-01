@@ -1,11 +1,11 @@
 [
   {
-    "content": "Your AI stack is now a values statement whether you want it to be or not.\n\n---\n\nPaul Graham telling founders to ignore the Anthropic/DoD noise and just ship is correct \u2014 but only for now. As government AI contracts scale, \"who built your model\" will appear in enterprise procurement checklists. That day is coming.\n\n---\n\nThe founders who think about vendor policy risk *before* they need to will have options. The ones who don't will be doing emergency migrations at the worst possible time.\n\nBuild on the best tool today. But know what you're building on. Those aren't contradictions.\n\nWhat's your framework for evaluating AI vendor risk beyond raw performance?",
+    "content": "Optimizing your AI stack for a customer you don't have yet is premature compliance theater.\n\nPG said it plainly: use what ships the best product. Full stop.\n\n---\n\nThe founders sweating Anthropic's DoD policy at pre-seed are solving a Series C problem. That's not prudence \u2014 that's procrastination dressed up as strategy.\n\n---\n\nBuild the thing. Win the customer. Then negotiate the compliance requirements from a position of leverage.\n\nVendor risk is real. But irrelevance kills faster.\n\nWhat's the biggest vendor decision you've overthought early that didn't matter once you had traction?",
     "format_type": "reflective",
     "vertical": "tech",
-    "source_story_title": "Anthropic's DoD Work Sparks Startup AI Stack Debate",
-    "source_story_summary": "Paul Graham weighed in on the controversy surrounding Anthropic's work with the Department of Defense (DoD), advising early-stage founders not to let Anthropic's DoD partnerships deter them from using Anthropic models if they produce the best results. He also praised what appears to be an Anthropic CEO AMA on the topic, noting the confidence it takes to field public questions during a sensitive moment.",
-    "generated_at": "2026-03-01T05:13:46.390739",
+    "source_story_title": "Paul Graham Endorses Anthropic for Early-Stage Startups Despite DoD Concerns",
+    "source_story_summary": "Paul Graham publicly advised early-stage founders not to avoid Anthropic's AI models simply because of concerns about potential future DoD sales restrictions. He argued that at the early stage, product quality is paramount, and if Anthropic delivers the best results, founders should use it without overthinking future enterprise compliance constraints.",
+    "generated_at": "2026-03-01T13:52:51.094129",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "content": "The most important code you'll write in the next decade won't be code.\n\n---\n\nAmjad told PG early on: \"Don't look at it. That's object code. You're programming in English now.\"\n\nPG admitted he saw the future and didn't recognize it.\n\nThat's how paradigm shifts work \u2014 they look strange before they look obvious.\n\n---\n\nWe're still in the \"looks strange\" phase for most of the industry.\n\nThe builders who internalize this NOW \u2014 that English is the new high-level language and generated code is infrastructure, not craft \u2014 are the ones building the next generation of dev tools.\n\nWhere are you in that mental model shift?",
+    "content": "The most powerful crisis move isn't a PR statement. It's an AMA.\n\nAnthropic's CEO sat in public heat over the DoD partnership and said: ask me anything. That's not spin. That's conviction.\n\n---\n\nFounders take note: silence reads as guilt. Transparency reads as leadership. The companies that will own foundational AI infrastructure are the ones that can hold scrutiny without flinching.\n\n---\n\nIf you're building on Anthropic's stack, this week should increase your confidence, not shake it. A CEO who answers hard questions live is one you can build on.\n\nTrust is infrastructure too. Agree or disagree?",
     "format_type": "reflective",
     "vertical": "tech",
-    "source_story_title": "Paul Graham Reflects on Replit's 'Program in English' Vision \u2014 Now Clearly Prescient",
-    "source_story_summary": "Paul Graham recalled an early demo from Replit's Amjad Masad in which Graham was taken aback by AI-generated boilerplate code. Masad reframed it: 'Don't look at it. That's object code. You're programming in English now.' Graham says in retrospect he was seeing the future but didn't fully grasp it at the time because it seemed too strange.",
-    "generated_at": "2026-03-01T05:13:51.815533",
+    "source_story_title": "Anthropic CEO Conducts Live AMA on DoD Partnership Amid Controversy",
+    "source_story_summary": "Anthropic's CEO publicly offered to answer questions about the company's work with the Department of Defense and its recent decision-making \u2014 an unusual and bold move of transparency in the middle of an active controversy. Paul Graham amplified this, praising the CEO's confidence in doing a real-time AMA on a sensitive topic at a politically charged moment.",
+    "generated_at": "2026-03-01T13:52:56.723501",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",

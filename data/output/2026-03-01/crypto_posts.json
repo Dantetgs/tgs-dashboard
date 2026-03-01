@@ -1,11 +1,11 @@
 [
   {
-    "content": "EIP-86 was proposed in 2016. EIP-8141 closes it out in 2025.\n\nThat's nearly a decade to resolve account abstraction \u2014 not because Ethereum moves slow, but because getting foundational primitives *right* takes time.\n\n---\n\nThe builder takeaway: protocol-level finality on AA means your product roadmap just got a stable floor. Stop waiting for the design to shift. Start building on it.\n\n---\n\nNine years of research compressed into one omnibus EIP. That's not a delay \u2014 that's a foundation. What are you shipping on top of it?",
+    "content": "Naval just said what VCs have been whispering for 18 months.\n\nPure software is un-investable. Not dying \u2014 un-investable. The margin compression from AI is real and it's accelerating.\n\n---\n\nHere's the flip side nobody's saying out loud: this is the best thing that ever happened to crypto.\n\nProtocol-layer value doesn't compress. Scarcity doesn't get vibe-coded away. The asset layer wins when the software layer commoditizes.\n\n---\n\nWe spent a decade arguing crypto needed a \"killer app.\" Turns out the killer thesis was simpler: own the layer AI can't replicate.\n\nWhere are you repositioning right now \u2014 software or protocol layer?",
     "format_type": "reflective",
     "vertical": "crypto",
-    "source_story_title": "EIP-8141: Ethereum Account Abstraction Finally Reaches Omnibus Resolution",
-    "source_story_summary": "Vitalik Buterin announced EIP-8141, described as an omnibus EIP that wraps up and resolves every remaining problem with account abstraction (AA) \u2014 a concept first proposed in EIP-86 back in early 2016. After nearly a decade of iteration, this represents a landmark consolidation of AA development on Ethereum.",
-    "generated_at": "2026-03-01T05:13:05.210733",
+    "source_story_title": "Naval Declares 'Pure Software Is Rapidly Becoming Un-Investable'",
+    "source_story_summary": "Naval Ravikant posted a terse but high-signal observation that pure software companies are rapidly losing their investment appeal, garnering over 14,000 likes and 1,200 retweets \u2014 among the highest engagement of any post in the dataset. While no elaboration was given, the statement is widely interpreted in the context of AI commoditizing software development and compressing software margins.",
+    "generated_at": "2026-03-01T13:52:08.436407",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "content": "702K lines of Ethereum's 2030 roadmap. Two weeks. One developer with agentic tools.\n\nThe bottleneck was never talent. It was always time.\n\n---\n\nVitalik called it impressive *and* buggy. Both are true. Both are beside the point.\n\nThe real signal: protocol-level R&D just got democratized. A solo builder can now prototype the entire Ethereum roadmap before a committee finishes the agenda.\n\nSpeed without correctness isn't the finish line \u2014 it's the new starting line.\n\n---\n\nWe're entering an era where the constraint shifts from *can we build it* to *can we verify it fast enough*.\n\nThe teams who win on Ethereum's 2030 timeline won't be the ones who coded the most. They'll be the ones who audited the fastest.\n\nWhere does your edge sit \u2014 generation or verification?",
+    "content": "A decade. That's how long Ethereum has been trying to fix its own onboarding problem from the inside.\n\nEIP-8141 isn't a feature drop. It's the protocol finally catching up to what builders have been duct-taping together with smart contract wallets for years.\n\n---\n\nThe real signal: when the base layer stops being the bottleneck, product quality becomes the only moat.\n\nNo more blaming gas UX. No more apologizing for seed phrases. The excuses are gone.\n\n---\n\nEvery wallet and consumer crypto app needs to be asking one question right now: what were we building around that we no longer have to?\n\nThe constraint just changed. Does your roadmap reflect that?",
     "format_type": "reflective",
     "vertical": "crypto",
-    "source_story_title": "Solo Developer Agentic-Codes 702K-Line Ethereum 2030 Roadmap Client in Two Weeks",
-    "source_story_summary": "A developer took up a bet with Vitalik Buterin and used agentic AI coding tools to build 'ETH2030,' an Ethereum client in Go targeting the 2030+ roadmap \u2014 702,000 lines of code covering 65 roadmap items that syncs with Ethereum mainnet, all completed in two weeks. Vitalik acknowledged the experiment as 'quite impressive' while noting significant caveats including likely critical bugs and stub implementations given the absence of finalized EIPs.",
-    "generated_at": "2026-03-01T05:13:12.010192",
+    "source_story_title": "Vitalik Details EIP-8141: The Omnibus Account Abstraction Solution After a Decade of Effort",
+    "source_story_summary": "Vitalik Buterin posted a deep-dive on EIP-8141, describing it as an omnibus EIP that resolves every remaining open problem in Ethereum account abstraction \u2014 a goal the community has pursued since EIP-86 in early 2016. The post represents a significant milestone in Ethereum's UX and smart-wallet evolution, suggesting the long-promised AA endgame may finally be within reach.",
+    "generated_at": "2026-03-01T13:52:14.627169",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "reflective",
