@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Every time a capability demo goes viral, we have the wrong conversation.\n---\n\nThe debate isn't \"will AI take jobs?\" That's already settled. The real question: which founders are building the transition layer \u2014 and which are about to become the transition?\n---\n\nWhen Yann LeCun reshares a demo, that's not hype. That's a signal. Top researchers don't amplify noise. They amplify inflection points. Pay attention to what they find noteworthy.\n---\n\nJob displacement anxiety resurging in public narrative = enterprise buyers getting nervous = procurement cycles slowing for AI-adjacent products. This is a go-to-market problem, not just a PR one.\n---\n\nIf you're building in this space, your messaging can't ignore the fear. You either address it directly or you lose deals to it silently. There's no neutral ground anymore.\n---\n\nHot take: the companies that win the next 24 months won't be the ones with the best models. They'll be the ones that made the transition feel safe. Perception is the moat right now.\n---\n\nSo \u2014 are you building the capability that sparked the anxiety, or the trust layer that converts anxious buyers into customers? Which side of that trade are you on?",
+    "format_type": "thread",
+    "vertical": "ai",
+    "source_story_title": "Viral AI Capability Demo Sparks Job Displacement Debate",
+    "source_story_summary": "A video shared by Klara Sjo and retweeted by Yann LeCun (Chief AI Scientist at Meta) went viral, showcasing an AI system performing tasks in a way that prompted widespread commentary about automation and job displacement. The original post sarcastically frames the AI as 'the one that will be taking our jobs,' suggesting the demo was striking enough to fuel renewed public anxiety about AI replacing human workers.",
+    "generated_at": "2026-03-02T05:09:04.929311",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "thread",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "When top AI researchers become political commentators, the entire industry pays the price \u2014 not just them.\n\n---\n\nYann LeCun has one of the most followed feeds in AI. When he amplifies partisan political content, he's not speaking for himself. He's shaping how regulators, media, and the public frame \"the AI industry.\"\n\n---\n\nThat matters for every founder building in this space. Perception is infrastructure. The relationship between AI and government is fragile and still forming. Every high-profile political signal from a top AI voice adds friction to that relationship.\n\n---\n\nThis isn't about left or right. It's about leverage. The AI industry has a narrow window to shape favorable policy. Every time a prominent AI voice goes partisan, that window gets smaller.\n\n---\n\nThe hard truth: tech leaders have earned massive platforms through domain expertise. Using those platforms for political point-scoring spends credibility that took decades to build \u2014 and the whole ecosystem absorbs the cost.\n\n---\n\nAs a founder, you have a choice. Build your platform around what you *know*, not what you *feel* about the news cycle. Authority compounds. Outrage doesn't.\n\n---\n\nHot take: AI researchers engaging in partisan politics aren't exercising influence \u2014 they're diluting it. Agree or disagree?",
+    "format_type": "thread",
+    "vertical": "ai",
+    "source_story_title": "JD Vance Foreign Policy Flip-Flop on Iran Resurfaces Amid Political Commentary",
+    "source_story_summary": "A retweeted post by @RpsAgainstTrump, amplified by Yann LeCun, highlights a October 2024 quote from JD Vance expressing opposition to war with Iran and criticizing Kamala Harris's foreign policy stance. The retweet by LeCun \u2014 a prominent AI figure rather than a political commentator \u2014 signals cross-domain political engagement from tech leaders, though the post content itself is political rather than AI-specific.",
+    "generated_at": "2026-03-02T05:09:14.923068",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "thread",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]

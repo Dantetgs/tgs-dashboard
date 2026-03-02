@@ -1,0 +1,15 @@
+[
+  {
+    "content": "Your data pipeline is lying to you \u2014 and most operators won't catch it until it costs them a decision.\n\n---\n\nBad data isn't neutral. It's actively harmful. A silent feed failure looks identical to \"nothing happened today.\" One gets you rest. The other gets you blindsided.\n\n---\n\nThe real infrastructure problem in media intelligence isn't AI. It's ingestion. Garbage in, confident summaries out. That's the actual risk.\n\n---\n\nEngagement-bait posts from creators get indexed. Actual industry moves get missed. If your briefing can't tell the difference, you don't have a briefing \u2014 you have noise with formatting.\n\n---\n\nBefore you optimize your prompts, audit your sources. Signal quality is a moat. Most teams treat it like a commodity.\n\n---\n\nWhat does your content intelligence stack actually look like? Are you vetting your feeds manually, or trusting the pipeline blindly? Agree or disagree: data hygiene is the most underrated competitive advantage right now.",
+    "format_type": "thread",
+    "vertical": "entertainment",
+    "source_story_title": "Insufficient Data: No Substantive Entertainment News Posts Detected",
+    "source_story_summary": "The only post provided in this dataset is an @MKBHD tweet posing a lighthearted hypothetical question about airplane snack etiquette, which contains no substantive entertainment news, announcements, or developments. There is insufficient content to identify, rank, or summarize meaningful entertainment stories from the last 24 hours based solely on this input.",
+    "generated_at": "2026-03-02T05:11:00.968834",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "thread",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]

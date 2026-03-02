@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Most founders edit for length. That's the wrong target.\n---\nPaul Graham reread his own essay and flagged something rare: long at the macro, tight at the micro. No bloat. That distinction is the whole game.\n---\nLength \u2260 bloat. Brevity \u2260 clarity.\n\nYour pitch deck can be 20 slides and razor sharp. Your memo can be 2 pages and completely hollow. The variable is fat \u2014 not length.\n---\nThe editing question isn't \"how do I make this shorter?\"\n\nIt's \"does every sentence earn its place?\"\n\nCut the fat. Keep the substance. Those are different operations.\n---\nFounders who communicate with density win the room, close the round, align the team faster.\n\nWriting is leverage. Most people treat it like a chore.\n---\nDo you edit for length or for density? Be honest.",
+    "format_type": "thread",
+    "vertical": "tech",
+    "source_story_title": "Paul Graham Reflects on 'How to Do Great Work' \u2014 Dense but Lean Writing",
+    "source_story_summary": "Paul Graham reread his essay 'How to Do Great Work' and noted an unusual quality: it is long at the macro level but unusually tight at the micro level, with little fat. This combination \u2014 length without bloat \u2014 is rare and noteworthy, and he shared the essay link alongside his observation.",
+    "generated_at": "2026-03-02T05:10:29.162645",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "thread",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "YC just stress-tested a startup plan against the \"OpenAI takes everything\" scenario. It survived. That's not a win \u2014 that's the new minimum bar.\n\n---\n\nThe real signal: model-layer commoditization is no longer a thought experiment. It's a live planning constraint at the best accelerator in the world. Your moat question has changed.\n\n---\n\nOld moat question: \"Can we defensibly outcompete rivals in our category?\"\n\nNew moat question: \"Does our business survive if our API provider becomes our direct competitor tomorrow?\"\n\nIf you can't answer that clearly, you don't have a strategy. You have a dependency.\n\n---\n\nThe founders who win this cycle will build at the intersection of two things AI can't easily replicate: proprietary data loops and human-trust surfaces. Everything else is rented ground.\n\n---\n\nMost AI startups today are building on someone else's platform AND in someone else's market. That's not a company. That's a feature waiting to be acqui-killed.\n\n---\n\nThe move: design your business so the model layer becoming a commodity makes you stronger, not extinct. Switching costs, data network effects, workflow lock-in. Stack them.\n\n---\n\nWhat's your honest answer to the new moat question? Does your plan survive if your foundation model provider goes vertical into your market? Drop it below \u2014 I'll tell you what I see.",
+    "format_type": "thread",
+    "vertical": "tech",
+    "source_story_title": "YC Office Hours Produce AI-Resilient Business Strategy \u2014 A Notable First",
+    "source_story_summary": "During a YC office hours session, Paul Graham and a startup developed a business plan designed to remain viable even in a scenario where AI model companies (e.g., OpenAI, Anthropic, Google) have captured all adjacent markets. Graham called this outcome 'a first,' signaling that the existential threat of model-layer commoditization is now a live strategic variable in YC conversations.",
+    "generated_at": "2026-03-02T05:10:40.172709",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "thread",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]
