@@ -1,8 +1,8 @@
 [
   {
-    "run_id": "2026-03-03_02-50",
-    "started_at": "2026-03-03T02:50:45.499196",
-    "completed_at": "2026-03-03T02:52:22.730985",
+    "run_id": "2026-03-03_12-35",
+    "started_at": "2026-03-03T12:35:43.668868",
+    "completed_at": "2026-03-03T12:37:08.112452",
     "status": "success",
     "verticals_requested": [
       "ai",
@@ -14,7 +14,7 @@
       "ai": {
         "vertical": "ai",
         "status": "ready_to_publish",
-        "tweets_scraped": 5,
+        "tweets_scraped": 11,
         "stories_found": 2,
         "posts_generated": 2,
         "output_file": "data/output/2026-03-03/ai_posts.json"
@@ -22,15 +22,15 @@
       "crypto": {
         "vertical": "crypto",
         "status": "ready_to_publish",
-        "tweets_scraped": 8,
-        "stories_found": 4,
+        "tweets_scraped": 7,
+        "stories_found": 2,
         "posts_generated": 2,
         "output_file": "data/output/2026-03-03/crypto_posts.json"
       },
       "tech": {
         "vertical": "tech",
         "status": "ready_to_publish",
-        "tweets_scraped": 2,
+        "tweets_scraped": 4,
         "stories_found": 1,
         "posts_generated": 1,
         "output_file": "data/output/2026-03-03/tech_posts.json"

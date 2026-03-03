@@ -1,11 +1,11 @@
 [
   {
-    "content": "When Paul Graham says something will \"seem obvious in retrospect,\" stop debating and start repositioning.\n\nReplit isn't just upgrading a product. They're making technical co-founders optional.\n\nDistribution wins. What's your moat if building becomes free?",
+    "content": "Your social radar is a skill, not a trait. The founders who scale are the ones who trained it \u2014 bad hires, broken co-founder splits, wrong investors. Pain calibrates the instrument. Who sharpened yours?",
     "format_type": "single_hot_take",
     "vertical": "tech",
-    "source_story_title": "Replit Poised to Redefine 'Vibe Coding' with Major Product Update",
-    "source_story_summary": "Paul Graham, co-founder of Y Combinator and one of the tech industry's most influential voices, posted that Replit CEO Amjad Masad showed him the company's latest developments, calling it a paradigm-shifting moment for AI-assisted coding. Graham's framing \u2014 that it will 'seem obvious in retrospect' \u2014 is a hallmark phrase he reserves for genuinely disruptive ideas, lending significant credibility to the signal.",
-    "generated_at": "2026-03-03T02:52:02.004181",
+    "source_story_title": "Paul Graham on Social Radar and Predicting Human Behavior",
+    "source_story_summary": "Y Combinator co-founder Paul Graham shared a cryptic quote illustrating what he calls the 'Social Radar' \u2014 an intuitive ability to make fine-grained, calibrated predictions about people over time. The example given ('I wouldn't be surprised if in five years I don't like him') suggests nuanced probabilistic judgment about character, rather than binary assessments.",
+    "generated_at": "2026-03-03T12:36:47.305114",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "single_hot_take",

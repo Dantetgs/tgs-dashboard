@@ -1,11 +1,11 @@
 [
   {
-    "content": "Saylor bought 3,015 BTC *below* his own average cost basis and nobody's calling it a warning sign \u2014 they're calling it conviction.\n\nThat's what institutional-grade belief looks like. Uncomfortable with the price. Buying anyway.\n\nAre you built the same way?",
+    "content": "Buying below your own cost basis isn't a red flag \u2014 it's conviction with receipts.\n\nStrategy just DCA'd $204M at $67.7K while holding a $75.9K avg. That's not panic. That's a long thesis executed in public.\n\nWho's next to copy the playbook?",
     "format_type": "single_hot_take",
     "vertical": "crypto",
-    "source_story_title": "Strategy (MicroStrategy) Acquires 3,015 BTC for $204M, Now Holds 720,737 BTC",
-    "source_story_summary": "Michael Saylor's Strategy announced the purchase of an additional 3,015 BTC for approximately $204.1 million at an average price of ~$67,700 per bitcoin. The company's total holdings now stand at 720,737 BTC, acquired for a cumulative ~$54.77 billion at an average cost basis of ~$75,985 per bitcoin. The current acquisition price being below their average cost basis is a notable signal about recent market conditions.",
-    "generated_at": "2026-03-03T02:51:44.874806",
+    "source_story_title": "Strategy (MicroStrategy) Acquires Additional 3,015 BTC for $204M, Total Holdings Reach 720,737 BTC",
+    "source_story_summary": "Michael Saylor's Strategy announced the purchase of 3,015 BTC for approximately $204.1 million at an average price of ~$67,700 per bitcoin. This brings the company's total holdings to 720,737 BTC acquired for ~$54.77 billion at an average cost basis of ~$75,985 per bitcoin. The acquisition comes at a price below their average cost basis, suggesting continued aggressive dollar-cost averaging despite unrealized losses on a per-unit basis.",
+    "generated_at": "2026-03-03T12:36:29.619933",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "single_hot_take",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "content": "Drones make borders irrelevant. So does Bitcoin.\n\nNaval's MAD thesis isn't just about warfare \u2014 it's the macro case for sovereign financial rails. When physical force decentralizes, so does everything else.\n\nGeopolitical chaos is crypto's strongest recruiter. Agree or disagree?",
+    "content": "ePBS isn't a feature \u2014 it's Ethereum admitting MEV centralization is an existential threat.\n\nGlamsterdam draws the line: block building stays competitive, staking stays decentralized.\n\nThe two can't merge. Protocol law now.\n\nBuilders: how does this reshape your MEV strategy?",
     "format_type": "single_hot_take",
     "vertical": "crypto",
-    "source_story_title": "Naval: Drones Bring Mutually Assured Destruction to Conventional Warfare",
-    "source_story_summary": "Naval Ravikant posted a high-engagement observation that drones are easy to manufacture and extremely difficult to defend against, and that this dynamic introduces a form of Mutually Assured Destruction (MAD) to conventional (non-nuclear) warfare. The post attracted nearly 13,000 likes and 1,400 retweets, making it the highest-engagement post in this set.",
-    "generated_at": "2026-03-03T02:51:48.503021",
+    "source_story_title": "Vitalik Buterin Outlines ePBS (Enshrined Proposer-Builder Separation) Coming in Glamsterdam Upgrade",
+    "source_story_summary": "Ethereum co-founder Vitalik Buterin shared details on the upcoming Glamsterdam upgrade's block building pipeline, highlighting the inclusion of ePBS (enshrined Proposer-Builder Separation). ePBS allows block proposers to outsource block construction to a free, permissionless market of specialized builders. The key design goal is to prevent block builder centralization from bleeding into staking centralization \u2014 a critical concern for Ethereum's long-term decentralization and censorship resistance.",
+    "generated_at": "2026-03-03T12:36:33.765120",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "single_hot_take",

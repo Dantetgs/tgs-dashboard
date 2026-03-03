@@ -1,11 +1,11 @@
 [
   {
-    "content": "OpenAI codifying its principles into a DoD contract isn't a red flag \u2014 it's the only move that keeps them at the table with any leverage. The alternative is signing blank checks to power. Which would you prefer?",
+    "content": "OpenAI codifying principles into government contracts isn't ethics \u2014 it's a moat. Every clause they normalize becomes the compliance bar every competitor has to clear. First-mover advantage, written into law. Who wins when the rulebook favors the rulemaker?",
     "format_type": "single_hot_take",
     "vertical": "ai",
-    "source_story_title": "OpenAI CEO Sam Altman Posts Internal Memo on DoD Agreement Amendments",
-    "source_story_summary": "Sam Altman shared an internal OpenAI post publicly detailing amendments being made to an agreement with the Department of Defense (DoD \u2014 likely referenced as 'DoW' in the original post). The amendments are intended to explicitly codify OpenAI's principles within the legal framework of the deal, with specific language being added to clarify commitments 'consistent with applicable laws.' The post generated substantial engagement, suggesting significant community interest and concern.",
-    "generated_at": "2026-03-03T02:51:06.326116",
+    "source_story_title": "OpenAI Amends Government Agreement with Principles Clarification",
+    "source_story_summary": "OpenAI CEO Sam Altman shared an internal post revealing that OpenAI is amending its agreement with the Department of (likely Defense or similar government body, abbreviated 'DoW') to explicitly codify principles around usage, signaling a significant policy and governance move. The post, which garnered exceptional engagement, suggests this is a material development in OpenAI's relationship with U.S. government agencies, with specific language being added to the agreement to make principles 'very clear.'",
+    "generated_at": "2026-03-03T12:36:05.789109",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "single_hot_take",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "content": "Google just made visual AI a commodity. Nano Banana 2 isn't a product launch \u2014 it's a margin compression event for every specialized image AI startup. The moat is in the application layer now. Are you building there?",
+    "content": "Visual AI just became a commodity. Nano Banana 2 isn't a product launch \u2014 it's a price signal. If your moat is \"we use AI for visuals,\" you're already behind. The moat is now what you build on top. Where are you adding the layer that actually matters?",
     "format_type": "single_hot_take",
     "vertical": "ai",
     "source_story_title": "Google DeepMind Launches Nano Banana 2 Visual AI Model",
-    "source_story_summary": "Google DeepMind announced Nano Banana 2, a new visual AI creation model positioned as faster, cheaper, and more accessible than its predecessor. The announcement was accompanied by visual examples and a link for further details, suggesting a consumer or developer-facing product release targeting image/visual generation workflows.",
-    "generated_at": "2026-03-03T02:51:09.421002",
+    "source_story_summary": "Google DeepMind announced Nano Banana 2, a new model focused on sophisticated visual creation that is described as faster, cheaper, and more broadly accessible. The announcement was accompanied by visual examples and positioned as a democratization play in AI-generated imagery or multimodal visual tooling.",
+    "generated_at": "2026-03-03T12:36:09.354546",
     "generation_params": {
       "model": "claude-sonnet-4-6",
       "format": "single_hot_take",
