@@ -1,0 +1,15 @@
+[
+  {
+    "content": "When Paul Graham says something will \"seem obvious in retrospect,\" stop debating and start repositioning.\n\nReplit isn't just upgrading a product. They're making technical co-founders optional.\n\nDistribution wins. What's your moat if building becomes free?",
+    "format_type": "single_hot_take",
+    "vertical": "tech",
+    "source_story_title": "Replit Poised to Redefine 'Vibe Coding' with Major Product Update",
+    "source_story_summary": "Paul Graham, co-founder of Y Combinator and one of the tech industry's most influential voices, posted that Replit CEO Amjad Masad showed him the company's latest developments, calling it a paradigm-shifting moment for AI-assisted coding. Graham's framing \u2014 that it will 'seem obvious in retrospect' \u2014 is a hallmark phrase he reserves for genuinely disruptive ideas, lending significant credibility to the signal.",
+    "generated_at": "2026-03-03T02:52:02.004181",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "single_hot_take",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]

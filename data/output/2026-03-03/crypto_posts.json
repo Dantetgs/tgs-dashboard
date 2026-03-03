@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Saylor bought 3,015 BTC *below* his own average cost basis and nobody's calling it a warning sign \u2014 they're calling it conviction.\n\nThat's what institutional-grade belief looks like. Uncomfortable with the price. Buying anyway.\n\nAre you built the same way?",
+    "format_type": "single_hot_take",
+    "vertical": "crypto",
+    "source_story_title": "Strategy (MicroStrategy) Acquires 3,015 BTC for $204M, Now Holds 720,737 BTC",
+    "source_story_summary": "Michael Saylor's Strategy announced the purchase of an additional 3,015 BTC for approximately $204.1 million at an average price of ~$67,700 per bitcoin. The company's total holdings now stand at 720,737 BTC, acquired for a cumulative ~$54.77 billion at an average cost basis of ~$75,985 per bitcoin. The current acquisition price being below their average cost basis is a notable signal about recent market conditions.",
+    "generated_at": "2026-03-03T02:51:44.874806",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "single_hot_take",
+      "persona": "Jorge Jimenez"
+    }
+  },
+  {
+    "content": "Drones make borders irrelevant. So does Bitcoin.\n\nNaval's MAD thesis isn't just about warfare \u2014 it's the macro case for sovereign financial rails. When physical force decentralizes, so does everything else.\n\nGeopolitical chaos is crypto's strongest recruiter. Agree or disagree?",
+    "format_type": "single_hot_take",
+    "vertical": "crypto",
+    "source_story_title": "Naval: Drones Bring Mutually Assured Destruction to Conventional Warfare",
+    "source_story_summary": "Naval Ravikant posted a high-engagement observation that drones are easy to manufacture and extremely difficult to defend against, and that this dynamic introduces a form of Mutually Assured Destruction (MAD) to conventional (non-nuclear) warfare. The post attracted nearly 13,000 likes and 1,400 retweets, making it the highest-engagement post in this set.",
+    "generated_at": "2026-03-03T02:51:48.503021",
+    "generation_params": {
+      "model": "claude-sonnet-4-6",
+      "format": "single_hot_take",
+      "persona": "Jorge Jimenez"
+    }
+  }
+]
