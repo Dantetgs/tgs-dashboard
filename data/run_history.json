@@ -1,8 +1,8 @@
 [
   {
-    "run_id": "2026-03-04_02-43",
-    "started_at": "2026-03-04T02:43:35.075624",
-    "completed_at": "2026-03-04T02:46:39.023392",
+    "run_id": "2026-03-04_12-35",
+    "started_at": "2026-03-04T12:35:17.634048",
+    "completed_at": "2026-03-04T12:37:17.189354",
     "status": "success",
     "verticals_requested": [
       "ai",
@@ -13,35 +13,23 @@
     "results": {
       "ai": {
         "vertical": "ai",
-        "status": "ready_to_publish",
-        "tweets_scraped": 11,
-        "stories_found": 3,
-        "posts_generated": 3,
-        "output_file": "data/output/2026-03-04/ai_posts.json"
+        "status": "generated",
+        "posts": 0
       },
       "crypto": {
         "vertical": "crypto",
-        "status": "ready_to_publish",
-        "tweets_scraped": 11,
-        "stories_found": 3,
-        "posts_generated": 2,
-        "output_file": "data/output/2026-03-04/crypto_posts.json"
+        "status": "generated",
+        "posts": 0
       },
       "tech": {
         "vertical": "tech",
-        "status": "ready_to_publish",
-        "tweets_scraped": 13,
-        "stories_found": 5,
-        "posts_generated": 2,
-        "output_file": "data/output/2026-03-04/tech_posts.json"
+        "status": "generated",
+        "posts": 0
       },
       "entertainment": {
         "vertical": "entertainment",
-        "status": "ready_to_publish",
-        "tweets_scraped": 3,
-        "stories_found": 3,
-        "posts_generated": 1,
-        "output_file": "data/output/2026-03-04/entertainment_posts.json"
+        "status": "generated",
+        "posts": 0
       }
     }
   }

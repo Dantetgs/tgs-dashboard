@@ -1,15 +1,1 @@
-[
-  {
-    "content": "SLIDE 1 (Hook): Apple raised prices and everyone's complaining. They're missing the actual play.\n\nSLIDE 2: The M5 Pro starts at $2,199 \u2014 up $200. But base storage doubled from 512GB to 1TB. The headline number is not the real number.\n\nSLIDE 3: Samsung did the exact same thing with the S26. This isn't a coincidence. This is a coordinated industry repricing strategy.\n\nSLIDE 4: Premium hardware makers have figured out that consumers anchor to specs, not price. Give them more storage, they'll accept a higher floor.\n\nSLIDE 5: For founders buying hardware at scale, the per-GB math may actually land in your favor. Run the numbers before you react to the sticker.\n\nSLIDE 6: The dangerous part: this normalizes higher price floors permanently. The $1,999 MacBook Pro is gone. It's not coming back.\n\nSLIDE 7: Budget your device fleet accordingly. The era of flagship hardware under $2K is officially over.\n\nLAST SLIDE (CTA): Premium hardware repricing is here to stay. Are you adjusting your team's hardware budget \u2014 or still planning around last year's numbers?",
-    "format_type": "carousel_outline",
-    "vertical": "entertainment",
-    "source_story_title": "Apple Launches M5 Pro & M5 Max MacBook Pros with Higher Prices and Base Storage",
-    "source_story_summary": "Apple has unveiled new MacBook Pro models powered by M5 Pro and M5 Max chips. The M5 Pro MacBook Pro starts at $2,199, up from $1,999, but now includes 1TB of base storage instead of 512GB. The pricing strategy mirrors Samsung's S26 approach: higher sticker prices offset by more included storage at the base tier.",
-    "generated_at": "2026-03-04T02:46:38.022790",
-    "generation_params": {
-      "model": "claude-sonnet-4-6",
-      "format": "carousel_outline",
-      "persona": "Jorge Jimenez"
-    }
-  }
-]
+[]
