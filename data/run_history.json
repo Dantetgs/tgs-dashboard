@@ -1,8 +1,8 @@
 [
   {
-    "run_id": "2026-03-12_12-37",
-    "started_at": "2026-03-12T12:37:14.086075",
-    "completed_at": "2026-03-12T12:38:23.600489",
+    "run_id": "2026-03-13_02-45",
+    "started_at": "2026-03-13T02:45:57.717166",
+    "completed_at": "2026-03-13T02:46:55.467529",
     "status": "success",
     "verticals_requested": [
       "ai",
@@ -28,8 +28,8 @@
       },
       "entertainment": {
         "vertical": "entertainment",
-        "status": "skipped",
-        "reason": "no_tweets"
+        "status": "generated",
+        "posts": 0
       }
     }
   }
